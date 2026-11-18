@@ -1,0 +1,69 @@
+﻿Line_Item,Note_Number,Metric_Type,Amount
+Interest and similar income,6,Group_2021,427597
+Interest and similar income,6,Group_2020,420813
+Interest and similar income,6,Bank_2021,340388
+Interest and similar income,6,Bank_2020,342492
+Interest and similar expense,7,Group_2021,-106793
+Interest and similar expense,7,Group_2020,-121131
+Interest and similar expense,7,Bank_2021,-82718
+Interest and similar expense,7,Bank_2020,-102111
+Net interest income,0,Group_2021,320804
+Net interest income,0,Group_2020,299682
+Net interest income,0,Bank_2021,257670
+Net interest income,0,Bank_2020,240381
+"Impairment loss on financial and non-financial
+instruments",8,Group_2021,-59932
+"Impairment loss on financial and non-financial
+instruments",8,Group_2020,-39534
+"Impairment loss on financial and non-financial
+instruments",8,Bank_2021,-56175
+"Impairment loss on financial and non-financial
+instruments",8,Bank_2020,-37237
+"Net interest income after impairment loss on
+financial and non-financial instruments",0,Group_2021,260872
+"Net interest income after impairment loss on
+financial and non-financial instruments",0,Group_2020,260148
+"Net interest income after impairment loss on
+financial and non-financial instruments",0,Bank_2021,201495
+"Net interest income after impairment loss on
+financial and non-financial instruments",0,Bank_2020,203144
+Net income on fees and commission,9,Group_2021,103958
+Net income on fees and commission,9,Group_2020,79332
+Net income on fees and commission,9,Bank_2021,84185
+Net income on fees and commission,9,Bank_2020,61417
+Trading gains,11,Group_2021,167483
+Trading gains,11,Group_2020,121678
+Trading gains,11,Bank_2021,171469
+Trading gains,11,Bank_2020,118601
+Other operating income,10,Group_2021,37594
+Other operating income,10,Group_2020,50735
+Other operating income,10,Bank_2021,53266
+Other operating income,10,Bank_2020,50450
+Depreciation of property and equipment,26,Group_2021,-25305
+Depreciation of property and equipment,26,Group_2020,-25125
+Depreciation of property and equipment,26,Bank_2021,-23204
+Depreciation of property and equipment,26,Bank_2020,-22686
+Amortisation of intangible assets,27,Group_2021,-3779
+Amortisation of intangible assets,27,Group_2020,-3537
+Amortisation of intangible assets,27,Bank_2021,-3064
+Amortisation of intangible assets,27,Bank_2020,-2776
+Personnel expenses,37,Group_2021,-79885
+Personnel expenses,37,Group_2020,-79520
+Personnel expenses,37,Bank_2021,-61123
+Personnel expenses,37,Bank_2020,-61515
+Operating expenses,12,Group_2021,-180564
+Operating expenses,12,Group_2020,-147850
+Operating expenses,12,Bank_2021,-165857
+Operating expenses,12,Bank_2020,-136628
+Profit before tax,0,Group_2021,280374
+Profit before tax,0,Group_2020,255861
+Profit before tax,0,Bank_2021,257167
+Profit before tax,0,Bank_2020,210007
+Income tax expense,13,Group_2021,-35816
+Income tax expense,13,Group_2020,-25296
+Income tax expense,13,Bank_2021,-24034
+Income tax expense,13,Bank_2020,-12155
+Profit for the year after tax,0,Group_2021,244558
+Profit for the year after tax,0,Group_2020,230565
+Profit for the year after tax,0,Bank_2021,233133
+Profit for the year after tax,0,Bank_2020,197852
