@@ -1,4 +1,3 @@
-
 **##Overview**
 
 A four-page Power BI report on Zenith Bank's FY2020 and FY2021 results, comparing the Bank with the Group (Bank plus subsidiaries). It looks at income, costs, impairment and profit, and explains why Group profit grew only 6.1% while operating income grew 14.2%.
